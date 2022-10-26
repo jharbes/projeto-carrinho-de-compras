@@ -42,16 +42,16 @@ em linguagem orientada a objetos dos seguintes tópicos:</p>
 
 <img src="modelo-conceitual.JPG" align="center" width="900">
 
-
+<br>
 <p>2) Criar a seguinte instância do modelo conceitual:</p>
 
 
 <img src="instancia-mc.JPG" align="center" width="900">
 
-
+<br>
 <p>3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.</p>
 
-
+<br>
 <p>4) Recuperar os dados e disponibilizá-los por meio de uma API Rest BÁSICA. Os seguintes end points devem ser disponibilizados:</p>
 
 <table>
