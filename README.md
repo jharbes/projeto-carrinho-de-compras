@@ -14,7 +14,7 @@
 sobre o paradigma orientado a objetos, usando padrões de mercado e boas práticas.</p>
 
 <p>Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática
-em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:</p>
+em linguagem orientada a objetos dos seguintes tópicos:</p>
 
 <ul>
 <li> Leitura e entendimento do diagrama de classes</li>
@@ -62,4 +62,5 @@ em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:<
 </tbody>
 </table>
 
-<h3><strong>*** EM CONSTRUÇÃO ***</strong></h3>
+<br>
+<h2><strong>*** EM CONSTRUÇÃO ***</strong></h2>
