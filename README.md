@@ -7,11 +7,58 @@
 <h3>Projeto Web Back-End Java de carrinho de compras, feito com Java, JPA e Spring Boot aplicando modelagem conceitual UML</h3>
 <br>
 
-A <strong>UML</strong> é uma linguagem-padrão para a elaboração da estrutura de projetos de software. Ela poderá ser empregada para a visualização, a especificação, a construção e a documentação de artefatos que façam uso de sistemas complexos de software.
 
-<strong>Java</strong> é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems. Em 2008 o Java foi adquirido pela empresa Oracle Corporation.
+<h3>Objetivo geral:</h3>
 
-O <strong>Spring</strong> é um framework open source para a plataforma Java criado por Rod Johnson e descrito em seu livro "Expert One-on-One: JEE Design e Development". Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência.
+	Este estudo de caso tem como objetivo mostrar na prática como um modelo conceitual pode ser implementado
+sobre o paradigma orientado a objetos, usando padrões de mercado e boas práticas.
 
+	Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática
+em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:
+
+ Leitura e entendimento do diagrama de classes
+ Leitura e entendimento do diagrama de objetos
+ Associações
+ Um para muitos / muitos para um
+ Um para um
+ Muitos para muitos
+ Conceito dependente
+ Classe de associação
+ Herança
+ Enumerações
+ Tipos primitivos (ItemPedidoPK)
+ Entidades fracas (ElementCollection)
+ Associações direcionadas
+
+
+<h3>Objetivos específicos:</h3>
+
+1) Fazer uma implementação padrão do seguinte modelo conceitual:
+
+
+<img src="modelo-conceitual.jpg">
+
+
+2) Criar a seguinte instância do modelo conceitual:
+
+
+<img src="instancia-mc.jpg">
+
+
+3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.
+
+
+4) Recuperar os dados e disponibilizá-los por meio de uma API Rest BÁSICA. Os seguintes end points devem ser disponibilizados:
+
+<table>
+<thead>
+<tr><th>End point</th><th>Dados</th></tr>
+</thead>
+<tbody>
+<tr><td>/categorias/{id}</td><td>Categoria e seus produtos</td><tr>
+<tr><td>/clientes/{id}</td><td>Cliente, seus telefones e seus endereços</td></tr>
+<tr><td>/pedidos/{id}</td><td>Pedido, seu cliente, seu pagamento, seus itens de pedido, seu endereço de entrega</td></tr>
+</tbody>
+</table>
 
 <h4><strong>*** EM CONSTRUÇÃO ***</strong></h4>
