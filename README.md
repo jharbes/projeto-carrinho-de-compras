@@ -9,6 +9,7 @@
 
 
 <h3>Objetivo geral:</h3>
+<br>
 
 <p>Este estudo de caso tem como objetivo mostrar na prática como um modelo conceitual pode ser implementado
 sobre o paradigma orientado a objetos, usando padrões de mercado e boas práticas.</p>
@@ -32,7 +33,9 @@ em linguagem orientada a objetos dos seguintes tópicos:</p>
 <li> Associações direcionadas</li>
 </ul>
 
+<br>
 <h3>Objetivos específicos:</h3>
+<br>
 
 <p>1) Fazer uma implementação padrão do seguinte modelo conceitual:</p>
 
