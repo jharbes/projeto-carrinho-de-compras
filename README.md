@@ -1,5 +1,5 @@
-<img src="logo-spring2.png" align="right" width="100">
-<img src="logo-java.png" align="right" width="100">
+<img align="right" alt="Spring" width="100" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+<img align="right" alt="Java" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img src="UML_logo.svg.png" align="right" width="100">
 
 # projeto-carrinho-de-compras
