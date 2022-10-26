@@ -37,13 +37,13 @@ em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:<
 <p>1) Fazer uma implementação padrão do seguinte modelo conceitual:</p>
 
 
-<img src="modelo-conceitual.jpg" align="center" width="700">
+<img src="modelo-conceitual.JPG" align="center" width="700">
 
 
 <p>2) Criar a seguinte instância do modelo conceitual:</p>
 
 
-<img src="instancia-mc.jpg" align="center" width="700">
+<img src="instancia-mc.JPG" align="center" width="700">
 
 
 <p>3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.</p>
