@@ -10,45 +10,46 @@
 
 <h3>Objetivo geral:</h3>
 
-	Este estudo de caso tem como objetivo mostrar na prática como um modelo conceitual pode ser implementado
-sobre o paradigma orientado a objetos, usando padrões de mercado e boas práticas.
+<p>Este estudo de caso tem como objetivo mostrar na prática como um modelo conceitual pode ser implementado
+sobre o paradigma orientado a objetos, usando padrões de mercado e boas práticas.</p>
 
-	Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática
-em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:
+<p>Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática
+em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:</p>
 
- Leitura e entendimento do diagrama de classes
- Leitura e entendimento do diagrama de objetos
- Associações
- Um para muitos / muitos para um
- Um para um
- Muitos para muitos
- Conceito dependente
- Classe de associação
- Herança
- Enumerações
- Tipos primitivos (ItemPedidoPK)
- Entidades fracas (ElementCollection)
- Associações direcionadas
-
+<ul>
+<li> Leitura e entendimento do diagrama de classes</li>
+<li> Leitura e entendimento do diagrama de objetos</li>
+<li> Associações</li>
+<li> Um para muitos / muitos para um</li>
+<li> Um para um</li>
+<li> Muitos para muitos</li>
+<li> Conceito dependente</li>
+<li> Classe de associação</li>
+<li> Herança</li>
+<li> Enumerações</li>
+<li> Tipos primitivos (ItemPedidoPK)</li>
+<li> Entidades fracas (ElementCollection)</li>
+<li> Associações direcionadas</li>
+</ul>
 
 <h3>Objetivos específicos:</h3>
 
-1) Fazer uma implementação padrão do seguinte modelo conceitual:
+<p>1) Fazer uma implementação padrão do seguinte modelo conceitual:</p>
 
 
-<img src="modelo-conceitual.jpg">
+<img src="modelo-conceitual.jpg" align="center" width="700">
 
 
-2) Criar a seguinte instância do modelo conceitual:
+<p>2) Criar a seguinte instância do modelo conceitual:</p>
 
 
-<img src="instancia-mc.jpg">
+<img src="instancia-mc.jpg" align="center" width="700">
 
 
-3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.
+<p>3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.</p>
 
 
-4) Recuperar os dados e disponibilizá-los por meio de uma API Rest BÁSICA. Os seguintes end points devem ser disponibilizados:
+<p>4) Recuperar os dados e disponibilizá-los por meio de uma API Rest BÁSICA. Os seguintes end points devem ser disponibilizados:</p>
 
 <table>
 <thead>
@@ -61,4 +62,4 @@ em linguagem orientada a objetos dos tópicos aprendidos no curso, quais sejam:
 </tbody>
 </table>
 
-<h4><strong>*** EM CONSTRUÇÃO ***</strong></h4>
+<h3><strong>*** EM CONSTRUÇÃO ***</strong></h3>
