@@ -1,4 +1,4 @@
-<img align="right" alt="Spring" width="100" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+<img align="right" alt="Spring" width="100" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
 <img align="right" alt="Java" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img src="UML_logo.svg.png" align="right" width="100">
 
