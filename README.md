@@ -64,6 +64,3 @@ em linguagem orientada a objetos dos seguintes tópicos:</p>
 <tr><td>/pedidos/{id}</td><td>Pedido, seu cliente, seu pagamento, seus itens de pedido, seu endereço de entrega</td></tr>
 </tbody>
 </table>
-
-<br>
-<h2><strong>*** EM CONSTRUÇÃO ***</strong></h2>
