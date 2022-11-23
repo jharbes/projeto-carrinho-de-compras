@@ -11,10 +11,10 @@
 <h3>Objetivo geral:</h3>
 <br>
 
-<p>Este estudo de caso tem como objetivo mostrar na prática como um modelo conceitual pode ser implementado
+<p align="justify">Este estudo de caso tem como objetivo mostrar na prática como um modelo conceitual pode ser implementado
 sobre o paradigma orientado a objetos, usando padrões de mercado e boas práticas.</p>
 
-<p>Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática
+<p align="justify">Vamos tomar como caso um modelo conceitual abrangente, com o qual possamos mostrar a implementação prática
 em linguagem orientada a objetos dos seguintes tópicos:</p>
 
 <ul>
@@ -37,22 +37,22 @@ em linguagem orientada a objetos dos seguintes tópicos:</p>
 <h3>Objetivos específicos:</h3>
 <br>
 
-<p>1) Fazer uma implementação padrão do seguinte modelo conceitual:</p>
+<p align="justify">1) Fazer uma implementação padrão do seguinte modelo conceitual:</p>
 
 
 <img src="modelo-conceitual.JPG" align="center" width="900">
 
 <br>
-<p>2) Criar a seguinte instância do modelo conceitual:</p>
+<p align="justify">2) Criar a seguinte instância do modelo conceitual:</p>
 
 
 <img src="instancia-mc.JPG" align="center" width="900">
 
 <br>
-<p>3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.</p>
+<p align="justify">3) Gerar uma base de dados relacional automaticamente a partir do modelo conceitual, bem como povoar a base com a instância dada.</p>
 
 <br>
-<p>4) Recuperar os dados e disponibilizá-los por meio de uma API Rest BÁSICA. Os seguintes end points devem ser disponibilizados:</p>
+<p align="justify">4) Recuperar os dados e disponibilizá-los por meio de uma API Rest BÁSICA. Os seguintes end points devem ser disponibilizados:</p>
 
 <table>
 <thead>
